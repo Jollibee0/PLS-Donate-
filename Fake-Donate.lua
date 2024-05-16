@@ -48,7 +48,7 @@ Tab:AddSlider({
 	Name = "Robux Amount",
 	Min = 0,
 	Max = 1000000,
-	Default = 0,
+	Default = "",
 	Color = Color3.fromRGB(255,255,255),
 	Increment = 1,
 	ValueName = "robux",
